@@ -2,15 +2,23 @@
     color: deeppink;
     text-transform: uppercase;
     font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace
 }
 
 .recipe-name{
     color: #afcfee ;
     text-transform: uppercase;
     font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 img{
     height: auto;
     width: 650px;
+}
+
+h2{
+    color: teal;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
 }

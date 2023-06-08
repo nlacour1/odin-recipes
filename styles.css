@@ -1,10 +1,16 @@
-h1{
+#title {
+    color: deeppink;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+.recipe-name{
     color: #afcfee ;
     text-transform: uppercase;
-    font-weight: 800;
+    font-weight: bolder;
 }
 
 img{
-    height: 500px;
-    width: auto;
+    height: auto;
+    width: 650px;
 }
